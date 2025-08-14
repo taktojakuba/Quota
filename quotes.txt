@@ -1,49 +1,49 @@
-Nie ważne ile razy się wykrzaczysz, ważne żebyś zawsze miał backup.
-Jeśli życie daje Ci błędy, zamień je w feature'y.
-Tak jak Goku podnosi poziom mocy, Ty podnoś wersję swojego projektu.
-Nie musisz znać całego kodu na pamięć — wystarczy, że wiesz, gdzie go skopiować.
-Jeżeli kod działa, nie dotykaj go… chyba że chcesz poczuć dreszczyk emocji.
-Twoje bugi nie definiują Ciebie, tylko Twój backlog.
-W życiu, jak w anime, czasem trzeba zrobić filler, żeby dojść do finału.
-Jeśli Twój kod jest brzydki, nazwij to 'obfuscated programming'.
-Nie bój się refaktoryzacji — nawet Vegeta potrafił się zmienić.
-Kiedy życie się crashuje, wciśnij Ctrl+Alt+Del w swojej głowie.
-Nie bój się nowych bibliotek — każda kiedyś była beta.
-Czasem trzeba zdebugować swoje życie tak jak kod.
-Jak w Naruto — nie poddawaj się, nawet jeśli wszyscy myślą, że jesteś noobem.
-Pamiętaj: commit często, żyj spokojnie.
-Nie rób spaghetti code… chyba że masz ochotę na dramat.
-Jak coś działa za pierwszym razem, to sprawdź, czy naprawdę działa.
-Porażka to tylko wyjątek, który trzeba obsłużyć.
-Życie jest jak git — czasem trzeba zrobić hard reset.
-Nigdy nie lekceważ siły dobrego komentarza w kodzie.
-Jak w Dragon Ball — zawsze możesz zrobić 'wersję 2.0'.
-Zanim się poddasz, sprawdź jeszcze Stack Overflow.
-Nie musisz znać całej drogi — wystarczy, że znasz następny commit.
-Każdy ma swój 'Hello World' w życiu.
-Nie bój się pushować swoich marzeń.
-Tak jak w anime, największy power-up przychodzi po największej porażce.
-Debugowanie to sport ekstremalny umysłu.
-W życiu nie ma Undo — ale jest Refactor.
-Niech Twoje cele będą open source — niech każdy je widzi.
-Niech Twoja determinacja kompiluje się bez błędów.
-Pamiętaj: nawet mistrzowie kiedyś byli początkującymi.
-Jak coś nie działa, zrób przerwę i zjedz ramen.
-Nie przejmuj się, jeśli wolno idziesz — ważne, że w dobrym kierunku.
-Tak jak w One Piece — droga jest ważniejsza niż skarb.
-Commituj swoje postępy, nie tylko sukcesy.
-Nie pozwól, by Twój projekt utknął w nieskończonej pętli.
-Bądź jak pikachu — mały, ale z wielką mocą.
-Każdy bug to okazja, by nauczyć się czegoś nowego.
-W życiu też przydaje się garbage collector.
-Nie pisz kodu, gdy jesteś wkurzony — to jak walczyć w anime bez treningu.
-Nie bój się pytać — nawet Luffy pyta o drogę.
-Tak jak kod — możesz zawsze siebie ulepszyć.
-Bądź jak main character — nawet jeśli świat jest przeciwko Tobie.
-Życie jest jak konsola — to, co wpiszesz, ma znaczenie.
-Jak coś jest trudne, potraktuj to jak boss fight.
-Nie kopiuj życia innych — napisz swój własny kod.
-Nie musisz od razu być seniorem, żeby robić fajne rzeczy.
-Tak jak w Bleach — czasem trzeba uwolnić swoją moc.
-Nigdy nie przestawaj się uczyć — nawet po 'The End'.
-Nie ma złego kodu — jest tylko kod z potencjałem.
+Every bug is a chance to become the hero of your project.
+Don't worry if your code is ugly — first versions are always like that.
+Debugging is a journey, not a punishment.
+You don't need to know the whole world to write a good program.
+If it crashed, it means something was working.
+Every commit brings you closer to mastery.
+Even the best programmer once made typos in 'print'.
+Refactoring is like cleaning your room — you don't always want to, but it's always worth it.
+Your projects are like wine — the older they get, the more bugs you find.
+Don't be afraid to write slowly — code isn't on fire.
+Each of us has our first 'Hello World' in our heart.
+If your code works, make a backup and run away.
+Don't be afraid to try new languages — of programming and of life.
+Failure in code is just a syntax error in your story.
+Every project starts with one line.
+Always test your code… unless you want a surprise.
+Great things start with small pull requests.
+You don't have to be a genius to write code — just be patient.
+Every bug has its story, find it.
+Programming is the art of learning from your own mistakes.
+There’s no bad code — only code that needs refactoring.
+The best code is the one you don’t have to write.
+Every hour of debugging is an investment in your skill.
+Don’t let your code get rusty.
+Sometimes it’s better to write a comment than another if statement.
+Be patient — even compilation takes time.
+The best ideas come in the shower… or during deployment.
+Your repo is your diary — commit often.
+Every language has its flaws, even your favorite one.
+Don’t be afraid to delete code — sometimes less is more.
+Programming is 90% thinking and 10% writing code.
+Errors are not failures, they are feedback.
+The best scripts are written with a cup of coffee in hand.
+Sometimes it’s worth returning to the documentation — it really exists.
+Don’t optimize too early — wait until it’s needed.
+Every pull request is a small step for a person, but a giant leap for the project.
+Leave the code better than you found it.
+Every programmer has their 'why does this work?!' moment.
+Be brave — sometimes you have to rewrite everything from scratch.
+The best bugs are the ones you find before the client does.
+When you don’t know what to do — ask Stack Overflow.
+Writing code is creating magic from logic.
+Every project is an adventure — don’t be afraid to start.
+Don’t wait for the perfect moment — start coding now.
+Every problem can be solved if you break it into smaller parts.
+The best solutions are often the simplest.
+Don’t waste time on perfection — working code is better.
+Learn keyboard shortcuts — they save lives.
+Every bug is an opportunity to become a better programmer.
